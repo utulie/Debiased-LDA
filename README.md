@@ -1,1 +1,1 @@
-This is the code for modified Linear Discriminant Analysis leveraging a debiased $\beta$ estimator.
+This is the code for modified Linear Discriminant Analysis leveraging a debiased $\beta$ estimator. Through maximizing accuracy ($(TP+TN)/N$), an estimator of $\beta$ could be obtained denoted as $\hat{\beta}$. However, there exists a difference between $\mathbb{E}(E)(\hat{\beta})$ and $\beta$. By debiasing it, a modified LDA could be obtained.
